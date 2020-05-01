@@ -1,0 +1,62 @@
+Personal Website Proposal
+By Hagen Feeney
+	My proposal for my next flask-powered 
+website is a website that is centered around 
+analyzing many views of different Ancient Greek 
+philosophers, discussing and elaborating on them, 
+and overall relating the numerous passions that 
+many of these philosophers had besides philosophy 
+(mathematics, art, writing, etc.) to the many 
+talents of philosophers, artists, writers, 
+mathematicians, and other figures in the Italian 
+Renaissance. In terms of functionality, my 
+website would begin with a home page, introducing 
+what I’ve talked about above and briefly discussing 
+the website’s details. I would have a navbar above 
+to link to different pages, including an “About” 
+page for how the website began and what the ideas 
+and thoughts that drove it were. Next in the navbar 
+would be an “Ancient Greece” page, where I would 
+list different philosophers from Ancient Greece and 
+briefly describe what their ideas were and how they 
+differed from and related to one another. There 
+would be an image for each philosopher that when 
+clicked, would send you to a page solely about that 
+philosopher. This page would go more in depth about 
+each philosopher's story, their pieces of writing, 
+art, or anything significant, and would elaborate 
+more on their thoughts. Going back to the navbar, 
+there would be an “Italian Renaissance” page, where
+ different people from the Italian Renaissance would 
+be listed, with images below their names. Like the 
+“Ancient Greece” page, the “Italian Renaissance” page
+ would feature brief descriptions of every person, 
+their talents, and their thoughts, and clicking on
+ each image will bring you to a different page that 
+goes more into depth about a specific member of the 
+Italian Renaissance. Returning to the navbar, there 
+would also be a “Discussion” Page. This page would 
+let you view posts about each philosopher or artist,
+and you would be able to comment on each post, 
+respond to other comments, or make a post yourself. 
+Before you do this, however, you would first create 
+an account, password, and fill out login information.
+ The functionality that I am not so sure I will be 
+able to or know how to implement is how to post in 
+the “Discussion Page”, or how to write/respond to a 
+comment. Everything else, the home and “About” 
+pages, the “Ancient Greek” and “Italian Renaissance”
+ pages, and the navbar, seems doable.
+
+For the added functionality in my site, I would quote
+ the words and passages of artists and philosophers 
+in the languages that they were originally written 
+in (mostly Greek, Latin, or Italian), and then 
+implement a feature that allows Google Translate 
+to translate the words into English and print them 
+out for everyone to read next to the passage in the 
+original language. In addition, I will add an audio 
+feature for both the passages in English and in 
+other languages where if a button is pressed, the 
+passage is narrated out loud by a virtual narrator,
+ which I would use Google Translate for.

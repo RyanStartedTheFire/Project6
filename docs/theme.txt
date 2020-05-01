@@ -1,0 +1,15 @@
+Color Palette:
+	skyblue: #94E1F2
+	grassgreen: #698C1C
+	goldenyellow: #D08D0E
+	caramel: #A66F0A
+	autumnred: #BF5111
+Fonts: 
+	Title: Source Sans Pro, Bold 700 (50px)
+	Subtitle: Source Sans Pro, Semi-bold 600 (35px)
+	Quote: Source Sans Pro, Semi-bold 600 italic (25px)
+	Paragraph: Source Sans Pro, Regular 400 (20px)
+	Comment: Source Sans Pro, Regular 400 italic (20px)
+Media:
+	Background-Image: Raphael’s The School of Athens
+	Logo: A philosopher sitting on a rock and reading a book
